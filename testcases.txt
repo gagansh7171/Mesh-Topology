@@ -1,0 +1,5 @@
+node can send msg to any number of nodes 
+nodes can send repeated msg to same node
+nodes sending msg to themselves is handled, the msg is not shown to be recieved
+nodes can send msg to other nodes even if some nodes get offline
+if an offline node comes back online then msg sending and recieving can resume normally
